@@ -41,7 +41,7 @@ const IndexPage = () => (
             lineHeight: '1.2',
           }}
         >
-          Mine personal website wherein my thoughts are portrayed.
+          Mine personal website wherein my thoughts are (gonna be) portrayed.
         </p>
       </div>
     </div>
